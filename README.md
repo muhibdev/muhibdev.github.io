@@ -68,3 +68,8 @@
     src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
   />
 </div>
+
+<div>
+  <h3>My Github Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhibdev&show_icons=true&theme=gotham" alt="muhibdev" />
+</div>

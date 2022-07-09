@@ -84,7 +84,7 @@
 </div>
 
 <div>
-  <h3></h3>
+  <h3>Contribution Graph</h3>
   <img src="https://activity-graph.herokuapp.com/graph?username=muhibdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="muhibdev" />
 </div>
 

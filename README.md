@@ -57,7 +57,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=muhibdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
         alt="muhibdev" />
-    <img align="right"
+    <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=muhibdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"
         alt="muhibdev" />
 </div>

@@ -69,7 +69,20 @@
   />
 </div>
 
+
 <div>
   <h3>My Github Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhibdev&show_icons=true&theme=gotham" alt="muhibdev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhibdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhibdev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhibdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="muhibdev" />
+</div>
+
+<div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=muhibdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="muhibdev" />
+</div>
+
+
+## ❤ Views and Followers
+<div>
+  <img src="https://komarev.com/ghpvc/?username=muhibdev">
+  <a href="https://github.com/muhibdev?tab=followers"><img src="https://img.shields.io/github/followers/muhibdev?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>

@@ -73,13 +73,13 @@
 <div>
   <h3>My Github Stats</h3>
  <div>
-   <span width="50%" ><img 
+   <img 
         src="https://github-readme-stats.vercel.app/api?username=muhibdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" 
-        alt="muhibdev"  /> </span>
-   <span width="50%" ><img 
+        alt="muhibdev"  />
+   <img 
          align="right" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=muhibdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" 
-         alt="muhibdev" /> </a>
+         alt="muhibdev" /> 
   </div>
 </div>
 
